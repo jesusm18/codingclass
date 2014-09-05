@@ -21,6 +21,12 @@
 }
 
 .page-navigation ul li a:hover {
- color: #00c;
+  color: #00c;
   text-decoration: underline;
+}
+.base{
+  padding: 40px;
+  float: center;
+  background-color: #c1cdc1;
+  color: #404040;
 }
